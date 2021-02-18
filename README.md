@@ -7,3 +7,4 @@
  
 :alien::alien: Stay hungry, stay foolish
 
+<img src="https://github-readme-stats.vercel.app/api?username=samKenpachi011&show_icons=true"  height="160"/>
